@@ -8,6 +8,8 @@
 
 <p align="left">- 🔭 I’m currently studying at University of Information Technology - Vietnam National University HCMC.<br>- 📚 Fascinated by Data Analyst, Cloud, Machine Learning.<br>- ⚡ Always improving, always aiming to develop.</p>
 
+<h4 align="left">Email: hoanhquoc168@gmail.com</h4>
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
