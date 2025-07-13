@@ -2,20 +2,6 @@
 
 ###
 
-<div align="center">
-  <a href="hoanhquoc168@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/hou1608" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://sun-xseeds.slack.com/team/U05R7A6A163" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
