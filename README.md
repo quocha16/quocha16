@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">Hi there, I'm Hồ Anh Quốc (ホー・アイン・クオック)👋</h1>
 
 ###
 
@@ -9,10 +7,6 @@
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
 </div>
-
-###
-
-<h1 align="center">Hi there, I'm Hồ Anh Quốc (ホー・アイン・クオック)👋</h1>
 
 ###
 
