@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hồ Anh Quốc (ホー・アイン・クオック)</h1>
+<h1 align="center">Hi there, I'm Hồ Anh Quốc</h1>
 
 ###
 
