@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently studying at University of Information Technology - Vietnam National University HCMC.<br>- 📚 Fascinated by Data Engineering, Machine Learning.<br>- ⚡ Motivated and open-minded, with a willingness to learn new skills and seize opportunities.</p>
+<p align="left">- 🔭 I’m currently studying at University of Information Technology - Vietnam National University HCMC.<br>- 📚 Fascinated by Machine Learning.<br>- ⚡ Motivated and open-minded, with a willingness to learn new skills and seize opportunities.</p>
 
 <h4 align="left">Contact: hoanhquoc168@gmail.com</h4>
 
