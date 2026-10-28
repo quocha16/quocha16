@@ -6,8 +6,8 @@
 
 ###
 
-- I’m currently studying at the **University of Information Technology - Vietnam National University HCMC**.
-- Passionate about **Machine Learning** and **Deep Learning**, with current research focused on applications of **Reinforcement Learning** in **Information Security**.
+- I’m currently studying at the University of Information Technology - Vietnam National University HCMC.
+- Passionate about Machine Learning and Deep Learning, with current research focused on applications of Reinforcement Learning in Information Security.
 
 <h4 align="left">Contact: hoanhquoc168@gmail.com</h4>
 
